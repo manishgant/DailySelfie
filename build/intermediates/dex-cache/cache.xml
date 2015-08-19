@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cee060c0442ab288210bd51dbed58e930ce097f7.jar" />
+    </item>
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-58ff7e6e08fb90b7bc298bcfdd3b78a243098823.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2173d36e782fa1d3f28e5e6281942ff95c70054.jar" />
+    </item>
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-fee641f65c72f042d2fcf7db8df30ad14353c259.jar" />
+    </item>
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\DailySelfie\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7c61c505318dc524b9b89c0bd4431bc4e2afd41b">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-f95669fc2770362a484936e6b3e0bf72a77fab19.jar" />
+    </item>
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7c758084117d7efc6d4b7b4445d14277320efeaa.jar" />
+    </item>
+    <item
+        jar="C:\Android\DailySelfie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-af308994031bc6f98b3387444ef973ab3bf07ce6.jar" />
+    </item>
+
+</items>

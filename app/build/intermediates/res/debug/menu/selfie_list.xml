@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="in.mansiz.dailyselfie.SelfieListActivity" >
+
+    <item
+        android:id="@+id/action_picture"
+        android:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/action_take_picture"/>
+
+    <item
+        android:id="@+id/action_alarm"
+        android:icon="@android:drawable/ic_lock_idle_alarm"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_disable_alarm"
+        />
+
+    <item
+        android:id="@+id/delete_all"
+        android:icon="@android:drawable/ic_delete"
+        android:showAsAction="ifRoom"
+        android:title="Delete All"
+        />
+
+</menu>
+<!-- From: file:/C:/Android/DailySelfie/app/src/main/res/menu/selfie_list.xml -->

@@ -1,0 +1,8 @@
+C:\Android\DailySelfie\app\build\intermediates\classes\debug
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cee060c0442ab288210bd51dbed58e930ce097f7.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2173d36e782fa1d3f28e5e6281942ff95c70054.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-fee641f65c72f042d2fcf7db8df30ad14353c259.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-f95669fc2770362a484936e6b3e0bf72a77fab19.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7c758084117d7efc6d4b7b4445d14277320efeaa.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-af308994031bc6f98b3387444ef973ab3bf07ce6.jar
+C:\Android\DailySelfie\app\build\intermediates\pre-dexed\debug\classes-58ff7e6e08fb90b7bc298bcfdd3b78a243098823.jar
